@@ -1,0 +1,17 @@
+﻿Timestamp	Filename	Error	Message
+2023-12-20 21:57:06.958 +0800	Blessie Exam.fmp12	0	*** Started consistency check of improperly closed file, total of 3819 block(s) to check
+2023-12-20 21:57:06.979 +0800	Blessie Exam.fmp12	8432	Page 3819 marked free but not in free list
+2023-12-20 21:57:06.981 +0800	Blessie Exam.fmp12	0	Reset maximum block sequence number to 75468
+2023-12-20 21:57:06.986 +0800	Blessie Exam.fmp12	0	*** Completed consistency check, checked 3819 block(s)
+2023-12-20 21:58:16.800 +0800	Blessie Exam.fmp12	0	*** Started consistency check of improperly closed file, total of 3819 block(s) to check
+2023-12-20 21:58:16.849 +0800	Blessie Exam.fmp12	8432	Page 3819 marked free but not in free list
+2023-12-20 21:58:16.852 +0800	Blessie Exam.fmp12	0	Reset maximum block sequence number to 75470
+2023-12-20 21:58:16.854 +0800	Blessie Exam.fmp12	0	*** Completed consistency check, checked 3819 block(s)
+2023-12-20 21:59:42.106 +0800	Blessie Exam.fmp12	0	*** Started consistency check of improperly closed file, total of 3819 block(s) to check
+2023-12-20 21:59:42.178 +0800	Blessie Exam.fmp12	8432	Page 3819 marked free but not in free list
+2023-12-20 21:59:42.181 +0800	Blessie Exam.fmp12	0	Reset maximum block sequence number to 75470
+2023-12-20 21:59:42.182 +0800	Blessie Exam.fmp12	0	*** Completed consistency check, checked 3819 block(s)
+2023-12-20 22:58:32.883 +0800	Blessie Exam.fmp12	0	*** Started consistency check of improperly closed file, total of 3819 block(s) to check
+2023-12-20 22:58:33.077 +0800	Blessie Exam.fmp12	8432	Page 3819 marked free but not in free list
+2023-12-20 22:58:33.078 +0800	Blessie Exam.fmp12	0	Reset maximum block sequence number to 75472
+2023-12-20 22:58:33.080 +0800	Blessie Exam.fmp12	0	*** Completed consistency check, checked 3819 block(s)
